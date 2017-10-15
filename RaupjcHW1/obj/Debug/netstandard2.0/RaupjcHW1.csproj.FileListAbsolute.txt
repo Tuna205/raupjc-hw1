@@ -1,0 +1,9 @@
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\bin\Debug\netstandard2.0\RaupjcHW1.deps.json
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\bin\Debug\netstandard2.0\RaupjcHW1.dll
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\bin\Debug\netstandard2.0\RaupjcHW1.pdb
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.csprojResolveAssemblyReference.cache
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.csproj.CoreCompileInputs.cache
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.AssemblyInfoInputs.cache
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.AssemblyInfo.cs
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.dll
+C:\Users\tuna2\Source\Repos\RaupjcHW1\RaupjcHW1\obj\Debug\netstandard2.0\RaupjcHW1.pdb
